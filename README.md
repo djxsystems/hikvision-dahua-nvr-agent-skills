@@ -1,6 +1,6 @@
 # DJX Systems NVR AI Agent Skills
 
-Public docs and examples for DJX Systems AI Agent Skills that export Hikvision and Dahua-family NVR footage from plain-English requests.
+🎥 **Pull Hikvision & Dahua CCTV footage by just *asking*.** Tell your AI agent *"grab the front-door camera from 8 to 9 PM last night"* and get a clean, verified MP4 back — no clunky web UI, no channel-guessing, no hand-built ffmpeg commands.
 
 [Website (catalog)](https://djxsystems.com/skills) · [Hikvision skill](https://djxsystems.com/skills/hikvision-nvr) · [Dahua / IC Realtime skill](https://djxsystems.com/skills/dahua-nvr) · [Agensi (Hikvision)](https://www.agensi.io/skills/hikvision-nvr) · [Technical guide](https://djxsystems.com/insights/hikvision-nvr-time-range-download)
 
