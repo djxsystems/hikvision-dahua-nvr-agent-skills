@@ -43,10 +43,20 @@ the ISAPI interface** (with RTSP available as a fallback path). If your
 recorder speaks Hikvision's ISAPI, it is very likely a fit, including
 OEM-rebranded units sold under other names.
 
-**Validated hands-on across four recorder models spanning firmware in the V3.x
-through V4.5 range**, covering older DVR firmware, newer NI-family NVRs, and
-mixed fleets where model families do not return the exact same XML shape. Other
-Hikvision and OEM-rebrand recorders that speak ISAPI should work too.
+**Validated hands-on across eight Hikvision recorder models** — a mix of HQHI/HWI
+DVRs and NI-family NVRs, including mixed fleets where model families do not return
+the exact same XML shape, with firmware spanning V3.1.10 through V4.50.000:
+
+- DS-7316HQHI-SH
+- DS-7616NI-E2/16P
+- DS-7716NI-SP/16
+- DS-7716NI-I4/16P
+- DS-7732NI-I4/16P
+- DS-9016HWI-ST
+- DS-9632NI-ST
+- DS-9632NI-I8
+
+Other Hikvision and OEM-rebrand recorders that speak ISAPI should work too.
 
 Not sure whether your recorder qualifies? Send the model number and firmware
 version through the [contact form](https://djxsystems.com/contact) for a

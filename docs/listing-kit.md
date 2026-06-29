@@ -68,12 +68,13 @@ names are trademarks of their respective owners.
 > a standard faststart MP4, trims it to your window, and verifies the output with
 > ffprobe — optionally checking the on-screen-display timestamp too. Built for
 > security teams, integrators, and developers who export review clips often
-> enough that the manual process hurts. Tested hands-on across four recorder
+> enough that the manual process hurts. Tested hands-on across eight recorder
 > models spanning firmware V3.1.10 through V4.50.000.
 
 **Supported recorders:** Hikvision DVRs/NVRs and OEM rebrands that expose ISAPI.
-Tested hands-on across four Hikvision recorder models spanning firmware
-V3.1.10–V4.50.000.
+Tested hands-on across eight Hikvision recorder models spanning firmware
+V3.1.10–V4.50.000: DS-7316HQHI-SH, DS-7616NI-E2/16P, DS-7716NI-SP/16,
+DS-7716NI-I4/16P, DS-7732NI-I4/16P, DS-9016HWI-ST, DS-9632NI-ST, DS-9632NI-I8.
 
 ---
 

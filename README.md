@@ -12,7 +12,7 @@
 
 ### Hikvision NVR AI Agent Skill
 
-Ask your AI agent in plain English for a camera and a time window — *"pull the front-door camera from 8 to 9 PM last night"* — and get back a clean, verified MP4. Built for Hikvision DVRs/NVRs and OEM rebrands that expose ISAPI, with an RTSP playback fallback. Tested on four recorder models spanning firmware V3.1.10 through V4.50.000.
+Ask your AI agent in plain English for a camera and a time window — *"pull the front-door camera from 8 to 9 PM last night"* — and get back a clean, verified MP4. Built for Hikvision DVRs/NVRs and OEM rebrands that expose ISAPI, with an RTSP playback fallback. Tested hands-on across eight recorder models spanning firmware V3.1.10 through V4.50.000.
 → [Hikvision product page](https://djxsystems.com/skills/hikvision-nvr) · [docs/hikvision-nvr.md](docs/hikvision-nvr.md)
 
 ### Dahua / IC Realtime NVR AI Agent Skill
