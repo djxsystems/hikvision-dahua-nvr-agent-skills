@@ -1,0 +1,31 @@
+DJX Systems NVR AI Agent Skills — Documentation Repository Notice
+
+Copyright (c) DJX Systems. All rights reserved.
+
+ABOUT THIS REPOSITORY
+
+This repository contains documentation, examples, compatibility notes, and
+sample output files only. You may freely read, reference, quote, and link to
+the contents of this repository.
+
+WHAT IS NOT INCLUDED OR LICENSED HERE
+
+The DJX Systems NVR AI Agent Skills (the "Hikvision NVR AI Agent Skill" and the
+"Dahua / IC Realtime NVR AI Agent Skill") are separate commercial products. They
+are NOT included in this repository and are NOT licensed by this repository.
+
+Those skills are sold and distributed separately and are licensed under the
+PolyForm Internal Use License 1.0.0
+(https://polyformproject.org/licenses/internal-use/1.0.0/). They are not open
+source. Obtaining or reading this documentation grants you no license to the
+skills themselves.
+
+To purchase the skills, see https://djxsystems.com/skills.
+
+TRADEMARKS
+
+Hikvision, Dahua, IC Realtime, Lorex, Amcrest, Honeywell, EZVIZ, and other
+brand and product names referenced in this repository are trademarks of their
+respective owners. They are used only for identification and compatibility
+purposes. DJX Systems is independent and is not affiliated with, endorsed by,
+or sponsored by any of these companies.

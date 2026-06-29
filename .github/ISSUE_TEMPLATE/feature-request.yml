@@ -1,0 +1,42 @@
+name: Feature request
+description: Suggest an improvement or new capability for the DJX Systems NVR AI Agent Skills.
+title: "[Feature]: <short summary>"
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the suggestion. Please keep requests focused on the documented,
+        non-evidence-grade clip-export workflow. For pre-purchase questions or
+        private discussion, use the [contact form](https://djxsystems.com/contact).
+  - type: dropdown
+    id: skill
+    attributes:
+      label: Which skill?
+      options:
+        - Hikvision NVR
+        - Dahua / IC Realtime (Dahua-family)
+        - Both / either
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the problem or use case?
+      description: What are you trying to do, and what gets in the way today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+      description: What would you like the skill to do?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or workarounds (optional)
+      description: Anything you've tried, or other ways this could be solved.
+    validations:
+      required: false

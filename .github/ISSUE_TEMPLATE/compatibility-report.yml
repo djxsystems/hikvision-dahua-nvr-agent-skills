@@ -1,0 +1,88 @@
+name: Compatibility report
+description: Tell us about a recorder you tried with one of the DJX Systems NVR AI Agent Skills — whether it worked or not.
+title: "[Compatibility]: <brand> <model> on <firmware>"
+labels: ["compatibility"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing a compatibility report. These help other buyers and
+        guide future testing. Please do **not** include real IP addresses,
+        hostnames, usernames, passwords, tokens, or any other sensitive details
+        — short aliases and brand/model/firmware are all we need.
+
+        Not sure whether a recorder is a fit before buying? You can also reach us
+        through the [contact form](https://djxsystems.com/contact).
+  - type: dropdown
+    id: skill
+    attributes:
+      label: Which skill?
+      description: Which of the two skills are you reporting on?
+      options:
+        - Hikvision NVR
+        - Dahua / IC Realtime (Dahua-family)
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: brand-model
+    attributes:
+      label: Recorder brand and model
+      description: e.g. "Hikvision DS-7xxxNI series" or "IC Realtime ICIP-..." — the model number off the unit or web UI.
+      placeholder: Brand and model number
+    validations:
+      required: true
+  - type: input
+    id: firmware
+    attributes:
+      label: Firmware version
+      description: The firmware/build string reported by the recorder's web UI.
+      placeholder: e.g. V4.50.000 build 210101
+    validations:
+      required: true
+  - type: input
+    id: agent
+    attributes:
+      label: Agent platform used
+      description: Which AI agent did you drive the skill with, and which version if known?
+      placeholder: e.g. Claude Code, OpenAI Codex, Cursor, Cline, Aider, Gemini CLI
+    validations:
+      required: true
+  - type: textarea
+    id: worked
+    attributes:
+      label: What worked
+      description: Search, download, conversion, trimming, verification, RTSP fallback, multi-segment join, etc. Note which download path succeeded if you know.
+      placeholder: e.g. ISAPI search and download worked; clip verified with ffprobe; trim landed within ~2s.
+    validations:
+      required: true
+  - type: textarea
+    id: didnt-work
+    attributes:
+      label: What didn't work
+      description: Errors, wrong clip boundaries, missing footage, fallback behavior, anything unexpected. Paste any error messages you saw — but redact real IPs/credentials.
+      placeholder: Describe the failure or unexpected behavior. Leave blank if everything worked.
+    validations:
+      required: false
+  - type: input
+    id: os-python
+    attributes:
+      label: OS and Python version (optional)
+      description: The machine running the agent.
+      placeholder: e.g. Windows 11, Python 3.12
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else (optional)
+      description: Network setup notes, OEM rebrand details, or other context that might help.
+    validations:
+      required: false
+  - type: checkboxes
+    id: no-secrets
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have not included any real IP addresses, hostnames, usernames, passwords, or tokens in this report.
+          required: true

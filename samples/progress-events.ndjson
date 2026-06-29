@@ -1,0 +1,15 @@
+{"event":"job","status":"started","job_id":"job-EXAMPLE-0001","alias":"front-lobby","requested_window":{"start":"2026-01-15T20:00:00","end":"2026-01-15T21:00:00"},"note":"illustrative shape only; fictional values"}
+{"event":"search","status":"started","alias":"front-lobby"}
+{"event":"search","status":"completed","segments_found":2}
+{"event":"download","status":"started","strategy":"primary","segment":1,"of":2}
+{"event":"download","status":"progress","segment":1,"of":2,"percent":58}
+{"event":"download","status":"completed","segment":1,"of":2}
+{"event":"download","status":"started","strategy":"primary","segment":2,"of":2}
+{"event":"download","status":"completed","segment":2,"of":2}
+{"event":"join","status":"completed","segments_joined":2}
+{"event":"convert","status":"started","target":"mp4"}
+{"event":"convert","status":"completed","target":"mp4","faststart":true}
+{"event":"trim","status":"completed","note":"keyframe-approximate, within ~1-3s of requested start"}
+{"event":"verify","status":"started"}
+{"event":"verify","status":"completed","checks":{"codec":"ok","resolution":"ok","frame_rate":"ok","duration":"ok","timestamp_ocr":"skipped"}}
+{"event":"job","status":"done","job_id":"job-EXAMPLE-0001","output":"front-lobby_2026-01-15_2000-2100.mp4","verified":true}

@@ -1,0 +1,44 @@
+{
+  "_comment": "ILLUSTRATIVE SHAPE ONLY. Not the skill's real schema. All values are fictional placeholders. No real paths, IPs, recorders, or credentials.",
+  "job_id": "job-EXAMPLE-0001",
+  "status": "completed",
+  "verified": true,
+  "recorder_alias": "front-lobby",
+  "camera_label": "lobby-entrance",
+  "requested_window": {
+    "start": "2026-01-15T20:00:00",
+    "end": "2026-01-15T21:00:00",
+    "timezone": "local"
+  },
+  "output": {
+    "file_name": "front-lobby_2026-01-15_2000-2100.mp4",
+    "container": "mp4",
+    "faststart": true,
+    "audio_included": false
+  },
+  "media": {
+    "video_codec": "h264",
+    "resolution": "1920x1080",
+    "frame_rate": "15/1",
+    "duration_seconds": 3601.4,
+    "approx_size_mb": 412
+  },
+  "segments_joined": 2,
+  "trim": {
+    "mode": "keyframe-approximate",
+    "start_accuracy_note": "start accurate to within ~1-3 seconds of the requested time; not frame-exact"
+  },
+  "verification": {
+    "method": "ffprobe",
+    "codec_ok": true,
+    "resolution_ok": true,
+    "frame_rate_ok": true,
+    "duration_ok": true,
+    "timestamp_ocr": "skipped (optional Pillow + tesseract not detected)"
+  },
+  "notes": [
+    "Values above are made up for illustration.",
+    "Audio is dropped during conversion.",
+    "Real manifests never contain credentials, IP addresses, or hostnames."
+  ]
+}

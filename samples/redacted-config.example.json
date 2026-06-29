@@ -1,0 +1,38 @@
+{
+  "_comment": "ILLUSTRATIVE EXAMPLE ONLY. This is NOT the skill's actual config schema and does NOT reveal how credentials are handled. All values are placeholders. Credentials are never stored in a file like this -- they live in your OS keyring or a separate, user-restricted .env. Replace the placeholders conceptually; do not treat this as a real, loadable config.",
+  "recorders": [
+    {
+      "alias": "your-alias-here",
+      "brand_family": "hikvision-or-dahua",
+      "host": "REDACTED",
+      "username": "REDACTED",
+      "credential_source": "os-keyring",
+      "https": true,
+      "accepts_self_signed_cert": true
+    },
+    {
+      "alias": "second-site-alias",
+      "brand_family": "dahua-protocol",
+      "host": "REDACTED",
+      "username": "REDACTED",
+      "credential_source": "env-file",
+      "https": true,
+      "accepts_self_signed_cert": true
+    }
+  ],
+  "output": {
+    "base_directory": "/path/to/your/clips",
+    "layout": "per-day-per-camera",
+    "layout_options": ["flat", "per-day", "per-camera", "per-day-per-camera"]
+  },
+  "behavior": {
+    "rtsp_fallback": true,
+    "verify_with_ffprobe": true,
+    "timestamp_ocr": "auto"
+  },
+  "notes": [
+    "Keep recorders on a LAN or VPN; do not expose them to the public internet.",
+    "Passwords and tokens never go in this file. 'REDACTED' marks where a real deployment keeps them out of config entirely.",
+    "Field names and structure shown here are illustrative and may not match the paid skill."
+  ]
+}
