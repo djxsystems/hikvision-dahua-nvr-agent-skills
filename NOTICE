@@ -1,0 +1,24 @@
+NOTICE — scope of the MIT license in this repository
+
+The MIT license in LICENSE covers ONLY the contents of this public
+documentation repository: the documentation, examples, and sample files. Reuse
+them freely. The license does NOT cover the paid skill packages.
+
+The DJX Systems NVR AI Agent Skills — the "Hikvision NVR AI Agent Skill" and the
+"Dahua / IC Realtime NVR AI Agent Skill" — are separate commercial products.
+They are sold and distributed separately and are licensed under the PolyForm
+Internal Use License 1.0.0:
+
+  https://polyformproject.org/licenses/internal-use/1.0.0
+
+They are not open source, and they are NOT included in or licensed by this
+repository. Reading this documentation grants you no license to the skills
+themselves. To purchase, see https://djxsystems.com/skills.
+
+TRADEMARKS
+
+Hikvision, Dahua, IC Realtime, Lorex, Amcrest, Honeywell, EZVIZ, and other
+brand and product names referenced here are trademarks of their respective
+owners, used only for identification and compatibility purposes. DJX Systems is
+independent and is not affiliated with, endorsed by, or sponsored by any of
+these companies.

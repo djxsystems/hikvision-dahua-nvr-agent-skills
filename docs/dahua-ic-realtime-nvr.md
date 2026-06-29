@@ -12,7 +12,7 @@ verifies the result before reporting success.
 
 - **Buy / catalog:** https://djxsystems.com/skills
 - **Dahua product page:** https://djxsystems.com/skills/dahua-nvr
-- **Agensi:** also coming to Agensi (listing pending review).
+- **Also listed on Agensi:** https://www.agensi.io/skills/dahua-ic-realtime-nvr
 - **Run Hikvision recorders too?** See the companion
   [Hikvision NVR skill](./hikvision-nvr.md).
 - **Back to repo overview:** [../README.md](../README.md)
@@ -162,14 +162,14 @@ open standard rather than having each been separately tested.
 
 One-time purchase: **$29** (regularly $39). Or get **both NVR skills for $50**.
 Licensed under the
-[PolyForm Internal Use License 1.0.0](https://polyformproject.org/licenses/internal-use/1.0.0/)
+[PolyForm Internal Use License 1.0.0](https://polyformproject.org/licenses/internal-use/1.0.0)
 — this is a paid product, not open source.
 
 ## Where to buy
 
 - **Dahua product page:** https://djxsystems.com/skills/dahua-nvr
 - **Skills catalog (and the $50 bundle):** https://djxsystems.com/skills
-- **Agensi:** also coming to Agensi (listing pending review).
+- **Also listed on Agensi:** https://www.agensi.io/skills/dahua-ic-realtime-nvr
 
 ## Learn more
 

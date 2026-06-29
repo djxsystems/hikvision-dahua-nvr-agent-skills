@@ -86,7 +86,7 @@ V3.1.10–V4.50.000.
 | Category | Security & Surveillance |
 | Price | $29 one-time (regularly $39) |
 | Product page | https://djxsystems.com/skills/dahua-nvr |
-| Also listed on | Coming to Agensi (listing pending — no link yet) |
+| Also listed on | Agensi — https://www.agensi.io/skills/dahua-ic-realtime-nvr |
 | Public docs | [docs/dahua-ic-realtime-nvr.md](./dahua-ic-realtime-nvr.md) |
 
 **One-line description**
@@ -223,13 +223,13 @@ dahua, ic-realtime, lorex, amcrest, honeywell, ezviz, cgi, dahua-oem
 | Hikvision product page | https://djxsystems.com/skills/hikvision-nvr |
 | Dahua / IC Realtime product page | https://djxsystems.com/skills/dahua-nvr |
 | Hikvision on Agensi | https://www.agensi.io/skills/hikvision-nvr |
+| Dahua / IC Realtime on Agensi | https://www.agensi.io/skills/dahua-ic-realtime-nvr |
 | Technical guide | https://djxsystems.com/insights/hikvision-nvr-time-range-download |
 | Contact | https://djxsystems.com/contact |
 | Agent Skills standard | https://agentskills.io |
 
-The Dahua / IC Realtime skill is **also coming to Agensi**; the listing is pending
-review, so there is no Agensi link for it yet. Please do not link an Agensi Dahua
-listing until one is published.
+The Dahua / IC Realtime skill is **also listed on Agensi**:
+https://www.agensi.io/skills/dahua-ic-realtime-nvr
 
 ---
 

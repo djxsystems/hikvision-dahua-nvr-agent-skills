@@ -1,31 +1,21 @@
-DJX Systems NVR AI Agent Skills — Documentation Repository Notice
+MIT License
 
-Copyright (c) DJX Systems. All rights reserved.
+Copyright (c) 2026 DJX Systems
 
-ABOUT THIS REPOSITORY
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This repository contains documentation, examples, compatibility notes, and
-sample output files only. You may freely read, reference, quote, and link to
-the contents of this repository.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-WHAT IS NOT INCLUDED OR LICENSED HERE
-
-The DJX Systems NVR AI Agent Skills (the "Hikvision NVR AI Agent Skill" and the
-"Dahua / IC Realtime NVR AI Agent Skill") are separate commercial products. They
-are NOT included in this repository and are NOT licensed by this repository.
-
-Those skills are sold and distributed separately and are licensed under the
-PolyForm Internal Use License 1.0.0
-(https://polyformproject.org/licenses/internal-use/1.0.0/). They are not open
-source. Obtaining or reading this documentation grants you no license to the
-skills themselves.
-
-To purchase the skills, see https://djxsystems.com/skills.
-
-TRADEMARKS
-
-Hikvision, Dahua, IC Realtime, Lorex, Amcrest, Honeywell, EZVIZ, and other
-brand and product names referenced in this repository are trademarks of their
-respective owners. They are used only for identification and compatibility
-purposes. DJX Systems is independent and is not affiliated with, endorsed by,
-or sponsored by any of these companies.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

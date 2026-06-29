@@ -2,7 +2,7 @@
 
 🦸 **Give your AI agent superpowers over your security cameras.** Drop in the skill and it pulls recorded Hikvision & Dahua footage on command — *"grab the front-door camera from 8 to 9 PM last night"* → a clean, verified MP4. No clunky web UI, no channel-guessing, no hand-built ffmpeg commands.
 
-[Website (catalog)](https://djxsystems.com/skills) · [Hikvision skill](https://djxsystems.com/skills/hikvision-nvr) · [Dahua / IC Realtime skill](https://djxsystems.com/skills/dahua-nvr) · [Agensi (Hikvision)](https://www.agensi.io/skills/hikvision-nvr) · [Technical guide](https://djxsystems.com/insights/hikvision-nvr-time-range-download)
+[Website (catalog)](https://djxsystems.com/skills) · [Hikvision skill](https://djxsystems.com/skills/hikvision-nvr) · [Dahua / IC Realtime skill](https://djxsystems.com/skills/dahua-nvr) · [Agensi (Hikvision)](https://www.agensi.io/skills/hikvision-nvr) · [Agensi (Dahua / IC Realtime)](https://www.agensi.io/skills/dahua-ic-realtime-nvr) · [Technical guide](https://djxsystems.com/insights/hikvision-nvr-time-range-download)
 
 > **This repository does NOT contain the paid skill packages.** It provides public documentation, examples, compatibility notes, and safe sample outputs only.
 
@@ -74,11 +74,11 @@ Sample outputs under [samples/](samples/README.md) are illustrative shapes only 
 
 ## Get the skills
 
-One-time purchase, **$29 each** (regularly $39), or **$50 for the bundle** of both. Licensed under the PolyForm Internal Use License 1.0.0 (not open source).
+One-time purchase, **$29 each** (regularly $39), or **$50 for the bundle** of both. The skills are licensed under the [PolyForm Internal Use License 1.0.0](https://polyformproject.org/licenses/internal-use/1.0.0) (not open source).
 
 - Buy on the catalog: [djxsystems.com/skills](https://djxsystems.com/skills)
 - Hikvision on Agensi: [agensi.io/skills/hikvision-nvr](https://www.agensi.io/skills/hikvision-nvr)
-- The Dahua / IC Realtime skill is also coming to Agensi.
+- Dahua / IC Realtime on Agensi: [agensi.io/skills/dahua-ic-realtime-nvr](https://www.agensi.io/skills/dahua-ic-realtime-nvr)
 
 Not sure your recorder is a fit? Send the brand, model, and firmware through the [contact form](https://djxsystems.com/contact) for a pre-purchase sanity check.
 
@@ -99,3 +99,7 @@ If you run a recorder we haven't listed, a compatibility report helps everyone. 
 - [samples/README.md](samples/README.md) — illustrative sample outputs
 - [Technical guide](https://djxsystems.com/insights/hikvision-nvr-time-range-download) — the manual workflow these skills automate
 - [Agent Skills (`SKILL.md`) standard](https://agentskills.io)
+
+## License
+
+This documentation repository is **MIT-licensed** — reuse the docs, examples, and copy freely (see [LICENSE](LICENSE)). The paid skill packages are a separate matter: they are commercial products under the [PolyForm Internal Use License 1.0.0](https://polyformproject.org/licenses/internal-use/1.0.0), and are neither contained in nor licensed by this repository. See [NOTICE](NOTICE) for the full distinction.

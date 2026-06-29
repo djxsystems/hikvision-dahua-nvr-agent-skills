@@ -151,7 +151,7 @@ open standard rather than having each been separately tested.
 
 One-time purchase: **$29** (regularly $39). Or get **both NVR skills for $50**.
 Licensed under the
-[PolyForm Internal Use License 1.0.0](https://polyformproject.org/licenses/internal-use/1.0.0/)
+[PolyForm Internal Use License 1.0.0](https://polyformproject.org/licenses/internal-use/1.0.0)
 — this is a paid product, not open source.
 
 ## Where to buy
